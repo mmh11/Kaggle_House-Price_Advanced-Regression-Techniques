@@ -11,9 +11,9 @@ My contribution to this project (Responsible Parts) included:
 - Box Plots
 
 Our Idea:
-(2) After finding correlations between factors, use heat map to find factors which are having stronger correlation with "SalePrice". 
-(3) Then using those factors to do linear regression.
-(4) Finally, generate a csv file of the predicting result.
+(1) After finding correlations between factors, use heat map to find factors which are having stronger correlation with "SalePrice". 
+(2) Then using those factors to do linear regression.
+(3) Finally, generate a csv file of the predicting result.
 (4) Data cleaning, replace all N/A value in the csv file using mean value.
 
 Limitations:
